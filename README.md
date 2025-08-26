@@ -1,2 +1,1 @@
-# hello_github
-first code
+Simple c code for merging two text files 
